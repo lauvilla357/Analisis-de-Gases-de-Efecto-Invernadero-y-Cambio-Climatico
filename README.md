@@ -2,12 +2,12 @@
 
 
 
-📌 Descripción
+### 📌 Descripción
 
 Este repositorio contiene el trabajo final de la diplomatura en Ciencia de Datos, donde analizamos la relación entre las emisiones de gases de efecto invernadero y el cambio climático global. Nuestro proyecto fue desarrollado en el marco del Hackathon de marzo de 2025 y obtuvo reconocimiento por su profundidad de análisis y rigor metodológico.
 
 
-📊 Datos Utilizados
+### 📊 Datos Utilizados
 
 Los datos provienen de diversas fuentes de referencia, incluyendo:
 
@@ -34,7 +34,7 @@ Los datasets utilizados incluyen:
 - Participación de energías renovables y fósiles
 
 
-🛠️ Metodología
+### 🛠️ Metodología
 
 Utilizamos Python en Google Colab para realizar el análisis y modelado de datos. Las principales técnicas implementadas incluyen:
 
@@ -47,7 +47,7 @@ Utilizamos Python en Google Colab para realizar el análisis y modelado de datos
 - Visualización de datos con matplotlib y seaborn.
 
 
-📈 Resultados Clave
+### 📈 Resultados Clave
 
   🔹 China, EE.UU. e India lideran las emisiones globales de gases de efecto invernadero.
   🔹 Existe una fuerte correlación entre el aumento de CO₂, CH₄, N₂O y el incremento de la temperatura global.
@@ -55,7 +55,7 @@ Utilizamos Python en Google Colab para realizar el análisis y modelado de datos
   🔹 La transición a energías renovables es clave para mitigar el calentamiento global.
 
 
-🚀 Instalación y Uso
+### 🚀 Instalación y Uso
 
 Para ejecutar el análisis, sigue estos pasos:
 
@@ -72,19 +72,19 @@ Para ejecutar el análisis, sigue estos pasos:
 - Ejecuta cada celda del notebook para replicar los resultados.
 
 
-📜 Documentos Adicionales
+### 📜 Documentos Adicionales
 
   📄 Informe Completo
   📊 Presentación Resumen
 
 
-👥 Equipo
+### 👥 Equipo
 
 Este proyecto fue realizado por el equipo Mundos E – Data Science, con la tutoría de la profesora Natacha Soledad Represa.
 
 
-📢 Contacto
+### 📢 Contacto
 
 Si tienes dudas o sugerencias, contáctanos a través de LinkedIn o abre un issue en este repositorio.
 
-✏️ Repositorio creado en el marco de la Diplomatura en Ciencia de Datos (2025).
+### ✏️ Repositorio creado en el marco de la Diplomatura en Ciencia de Datos (2025).
