@@ -4,7 +4,7 @@
 
 ### 📌 Descripción
 
-Este repositorio contiene el trabajo final de la diplomatura en Ciencia de Datos, donde analizamos la relación entre las emisiones de gases de efecto invernadero y el cambio climático global. Nuestro proyecto fue desarrollado en el marco del Hackathon de marzo de 2025 y obtuvo reconocimiento por su profundidad de análisis y rigor metodológico.
+Este repositorio contiene un analisis de la relación entre las emisiones de gases de efecto invernadero y el cambio climático global. Nuestro proyecto fue desarrollado en el marco del Hackathon de marzo de 2025 y obtuvo reconocimiento por su profundidad de análisis y rigor metodológico.
 
 
 ### 📊 Datos Utilizados
