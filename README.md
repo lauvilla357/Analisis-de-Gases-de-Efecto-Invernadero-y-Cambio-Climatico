@@ -86,5 +86,3 @@ Este proyecto fue realizado por el equipo Mundos E – Data Science, con la tuto
 ### 📢 Contacto
 
 Si tienes dudas o sugerencias, contáctanos a través de LinkedIn o abre un issue en este repositorio.
-
-### ✏️ Repositorio creado en el marco de la Diplomatura en Ciencia de Datos (2025).
